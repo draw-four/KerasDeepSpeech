@@ -5,6 +5,7 @@
 
 Repository for experimenting with different CTC based model designs for ASR. Supports [live recording and testing](data/live-rec-test.py) of speech and quickly creates customised datasets using [own-voice dataset creation scripts](data/data-recorder.py)!
 
+*Also to retrain the model to be able to understand and identify different types of keyboard noise inputs.
 ## OVERVIEW
 
 <!-- ![Overview kDS](https://raw.githubusercontent.com/mlrobsmt/KerasDeepSpeech/master/preproc/overview.gif "Overview of kDS and batchgen") -->
